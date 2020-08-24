@@ -9,7 +9,7 @@ Para utilizar a aplicação no ambiente local:
 - [x] Script da Base de Dados disponível no diretório "Ordem-de-Servico\src\main\resources\db\migration"
 
 
-### Instalações Necessários
+### Instaladores Necessários
 - [x] Mysql Workbench
 - [x] Spring Tool Suite 4
 - [x] Postman
